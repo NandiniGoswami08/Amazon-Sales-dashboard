@@ -21,6 +21,7 @@ This project is an interactive Sales Analytics Dashboard that I developed in Mic
 To provide clear, actionable insights for decision-making, highlighting sales trends, performance gaps, and regional opportunities.
 
 ## Dataset used
+- <a href="https://github.com/NandiniGoswami08/Amazon-Sales-dashboard/blob/main/Amazon%20Sales%20Project%20(BEGINNER).xlsx">Dataset</a>
 
 
 
