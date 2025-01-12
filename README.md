@@ -16,3 +16,16 @@ This project is an interactive Sales Analytics Dashboard that I developed in Mic
 4.	A state-wise map for geographic distribution of sales.
 
 •	Data Details: Includes raw data with sales representatives, products, pricing, cities, states, regions, and dates.
+
+## Project Objective
+To provide clear, actionable insights for decision-making, highlighting sales trends, performance gaps, and regional opportunities.
+
+## Dataset used
+
+
+
+
+
+
+
+
